@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I’m Jakub!</h1>
-<h3 align="center">🚀 Computer Science Student | Backend & Systems-Focused Developer</h3>
+<h1 align="center">Hi 👋, I'm Jakub!</h1>
+<h3 align="center">🚀 Computer Science Student at Krakow University of Technology | Backend, Embedded & Systems-Focused Developer</h3>
 
 <p align="center">
-  I’m an ambitious computer science student building strong foundations in software engineering. My main focus is on <b>backend development, systems architecture, and low-level logic</b>, while keeping my skills sharp in modern web technologies.
+  I'm an ambitious Computer Science student at <b>Krakow University of Technology</b> building strong foundations in software engineering. My main focus is on <b>backend development, embedded systems, and low-level programming</b>, while keeping my skills sharp in modern web technologies. I'm passionate about both software and hardware, with particular interest in embedded systems and electronics.
 </p>
 
 <p align="center">
@@ -10,6 +10,11 @@
 </p>
 
 <br>
+
+## 🎓 Academic Background
+- **🎓 Student at Krakow University of Technology** - Faculty of Computer Science and Telecommunications
+- **🧮 C++ Academic Projects** - Extensive experience with algorithm implementation, data structures, and systems programming
+- **🔌 Electronics & Hardware** - Strong interest in embedded systems, microcontrollers, and hardware-software integration
 
 ## 🛠️ Tech Stack
 
@@ -19,6 +24,14 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### 🔌 Embedded & Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/embedded%20systems-%23006699.svg?style=for-the-badge&logo=embeddedc&logoColor=white" alt="Embedded Systems" />
 </p>
 
 ### ⚙️ Backend & Data Engineering
@@ -50,15 +63,16 @@
 I focus on **real-world use cases** rather than just tutorials.
 * 🔹 **High-Performance Backends:** Built with **Python + FastAPI** using clean architecture.
 * 🔹 **Full-Stack Apps:** Integration of **React + TypeScript** with robust APIs.
+* 🔹 **C++ Academic Projects:** Algorithm implementations, data structures, and systems programming from university coursework.
 * 🔹 **Data Tools:** Utility apps using **Streamlit** and **NumPy**.
-* 🔹 **Systems Programming:** Algorithmic and memory-managed projects in **C++**.
 
 ---
 
 ## 🎯 Current Goals
-* 🧱 Build a **strong, practical project portfolio**.
-* 🔐 Deepen knowledge in **Backend Engineering & Cybersecurity**.
-* 🚀 Become a thoughtful Software Engineer, focusing on architecture and scalability.
+* 🧱 Build a **strong, practical project portfolio** with emphasis on backend systems.
+* 🔐 Deepen knowledge in ** Backend Development, Embedded Systems & Hardware Programming**.
+* 🚀 Become a thoughtful Software Engineer, focusing on architecture, scalability, and hardware integration.
+* 🔌 Explore **IoT development** and **microcontroller applications**.
 
 ---
 
