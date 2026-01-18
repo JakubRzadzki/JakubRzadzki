@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub!</h1>
-<h3 align="center">🚀 Computer Science Student at Krakow University of Technology | Backend, Embedded & Systems-Focused Developer</h3>
+<h3 align="center">🚀 Computer Engineering  Student at Krakow University of Technology | Backend, Embedded & Systems-Focused Developer</h3>
 
 <p align="center">
   I'm an ambitious Computer Science student at <b>Krakow University of Technology</b> building strong foundations in software engineering. My main focus is on <b>backend development, embedded systems, and low-level programming</b>, while keeping my skills sharp in modern web technologies. I'm passionate about both software and hardware, with particular interest in embedded systems and electronics.
