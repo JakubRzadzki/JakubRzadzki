@@ -63,7 +63,6 @@
 I focus on **real-world use cases** rather than just tutorials.
 * 🔹 **High-Performance Backends:** Built with **Python + FastAPI** using clean architecture.
 * 🔹 **Full-Stack Apps:** Integration of **React + TypeScript** with robust APIs.
-* 🔹 **C++ Academic Projects:** Algorithm implementations, data structures, and systems programming from university coursework.
 * 🔹 **Data Tools:** Utility apps using **Streamlit** and **NumPy**.
 
 ---
