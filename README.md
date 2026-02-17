@@ -12,7 +12,7 @@
 <br>
 
 ## 🎓 Academic Background
-- **🎓 Student at Krakow University of Technology** - Faculty of Computer Science and Telecommunications
+- **🎓 Student at Krakow University of Technology** - Faculty of Electrical and Computer Engineering
 - **🧮 C++ Academic Projects** - Extensive experience with algorithm implementation, data structures, and systems programming
 - **🔌 Electronics & Hardware** - Strong interest in embedded systems, microcontrollers, and hardware-software integration
 
