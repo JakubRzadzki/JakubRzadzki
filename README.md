@@ -1,69 +1,103 @@
-<h1 align="center">Hi 👋, I'm Jakub!</h1>
-<h3 align="center">
-🚀 Computer Science Student at Krakow University of Technology | 
-Associate Software Engineer @ SII Poland | 
-Backend & Systems-Focused Developer
-</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Jakub!</h1>
+  <h3>
+    🚀 Computer Science in Computer Engineering Student at Cracow University of Technology<br>
+    💼 Associate Software Engineer @ SII Poland <br>
+    ⚙️ Backend & Systems-Focused Developer
+  </h3>
+  <br>
+  <p>
+    I'm an ambitious <b>Computer Science in Computer Engineering</b> student at <b>Cracow University of Technology</b> building strong foundations in software engineering while gaining commercial experience as an <b>Associate Software Engineer</b>.
+    My main focus is on <b>backend development, system design, and scalable architectures</b>, while keeping my skills sharp in modern full-stack technologies.
+  </p>
 
-<p align="center">
-I'm an ambitious Computer Science student at <b>Krakow University of Technology</b> building strong foundations in software engineering while gaining commercial experience as an <b>Associate Software Engineer</b>.
-My main focus is on <b>backend development, system design, and scalable architectures</b>, while keeping my skills sharp in modern full-stack technologies.
-</p>
-
-<p align="center">
-🌱 <b>Core Philosophy:</b> I value consistency, hands-on practice, and real skills over theory alone.
-</p>
+  > 🌱 **Core Philosophy:** I value consistency, hands-on practice, and real skills over theory alone.
+</div>
 
 <br>
 
 ## 🎓 Academic Background
-- 🎓 Computer Science in Computer Engineering – Krakow University of Technology  
+- 🎓 **Computer Science in Computer Engineering** – Cracow University of Technology  
 - 🧮 Strong foundation in algorithms, data structures, and systems programming  
-- 💼 Associate Software Engineer @ SII Poland  
+- 💼 **Associate Software Engineer** @ SII Poland  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="left">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+**💻 Languages & Scripting**
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c%2B%2B.png" height="40" /><br><sub>C++</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" height="40" /><br><sub>Python</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" height="40" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" height="40" /><br><sub>Bash</sub></td>
+  </tr>
+</table>
 
-### ⚙️ Backend & Data Engineering
-<p align="left">
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/SqlAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-%23e92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+**⚙️ Backend & Databases**
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/fastapi.png" height="40" /><br><sub>FastAPI</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.png" height="40" /><br><sub>Django</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" height="40" /><br><sub>NumPy</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/matlab.png" height="40" /><br><sub>MATLAB</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="40" /><br><sub>SQLAlchemy</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/pydantic/E92063" height="40" /><br><sub>Pydantic</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" height="40" /><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" height="40" /><br><sub>MySQL</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" /><br><sub>SQLite</sub></td>
+  </tr>
+</table>
 
-### 🌐 Frontend & UI
-<p align="left">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+**🌐 Frontend & UI**
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" height="40" /><br><sub>React</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" height="40" /><br><sub>TailwindCSS</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vite.png" height="40" /><br><sub>Vite</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" /><br><sub>Streamlit</sub></td>
+  </tr>
+</table>
 
-### 🐧 DevOps & Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**🐧 Dev Tools & Environment**
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" height="40" /><br><sub>Linux</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" height="40" /><br><sub>Git</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" height="40" /><br><sub>GitHub</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" height="40" /><br><sub>VS Code</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=clion" height="40" /><br><sub>CLion</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pycharm" height="40" /><br><sub>PyCharm</sub></td>
+    <td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg/icons/cursor.svg" height="40" /><br><sub>Cursor IDE</sub></td>
+  </tr>
+</table>
+
+**🚀 DevOps, Management & Observability**
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" height="40" /><br><sub>Docker</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" height="40" /><br><sub>Git Actions</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grafana.png" height="40" /><br><sub>Grafana</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" height="40" /><br><sub>Jira</sub></td>
+  </tr>
+</table>
+
+---
+
+## 🧠 AI & Productivity
+- 🤖 Practical experience with **AI-assisted development (Cursor, prompting workflows)**  
+- ✍️ Writing effective prompts for code generation, debugging, and automation  
+- ⚡ Using AI tools to speed up development without sacrificing code quality  
 
 ---
 
 ## 📦 What you'll find in my Repositories
-I focus on **real-world use cases** rather than tutorials.
+*I focus on **real-world use cases** rather than tutorials.*
 
 - 🔹 High-performance backend systems built with Python (FastAPI, Django)  
 - 🔹 Full-stack applications (React + TypeScript + modern APIs)  
@@ -81,8 +115,6 @@ I focus on **real-world use cases** rather than tutorials.
 ---
 
 ## 📫 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/jakub-rządzki-35b6413a0/" target="blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/jakub-rządzki-35b6413a0/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-</p>
