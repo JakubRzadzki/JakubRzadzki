@@ -1,81 +1,88 @@
 <h1 align="center">Hi 👋, I'm Jakub!</h1>
-<h3 align="center">🚀 Computer Science in Computer Engineering  Student at Krakow University of Technology | Backend, Embedded & Systems-Focused Developer</h3>
+<h3 align="center">
+🚀 Computer Science Student at Krakow University of Technology | 
+Associate Software Engineer @ SII Poland | 
+Backend & Systems-Focused Developer
+</h3>
 
 <p align="center">
-  I'm an ambitious Computer Science student at <b>Krakow University of Technology</b> building strong foundations in software engineering. My main focus is on <b>backend development, embedded systems, and low-level programming</b>, while keeping my skills sharp in modern web technologies. I'm passionate about both software and hardware, with particular interest in embedded systems and electronics.
+I'm an ambitious Computer Science student at <b>Krakow University of Technology</b> building strong foundations in software engineering while gaining commercial experience as an <b>Associate Software Engineer</b>.
+My main focus is on <b>backend development, system design, and scalable architectures</b>, while keeping my skills sharp in modern full-stack technologies.
 </p>
 
 <p align="center">
-  🌱 <b>Core Philosophy:</b> I value consistency, hands-on practice, and real skills over theory alone.
+🌱 <b>Core Philosophy:</b> I value consistency, hands-on practice, and real skills over theory alone.
 </p>
 
 <br>
 
 ## 🎓 Academic Background
-- **🎓 Student at Krakow University of Technology** - Faculty of Electrical and Computer Engineering
-- **🧮 C++ Academic Projects** - Extensive experience with algorithm implementation, data structures, and systems programming
-- **🔌 Electronics & Hardware** - Strong interest in embedded systems, microcontrollers, and hardware-software integration
+- 🎓 Computer Science in Computer Engineering – Krakow University of Technology  
+- 🧮 Strong foundation in algorithms, data structures, and systems programming  
+- 💼 Associate Software Engineer @ SII Poland  
+
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### 🔌 Embedded & Hardware
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/embedded%20systems-%23006699.svg?style=for-the-badge&logo=embeddedc&logoColor=white" alt="Embedded Systems" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Data Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SqlAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Pydantic-%23e92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/SqlAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-%23e92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ### 🌐 Frontend & UI
 <p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🐧 Tools & DevOps
+### 🐧 DevOps & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📦 What you'll find in my Repos
-I focus on **real-world use cases** rather than just tutorials.
-* 🔹 **High-Performance Backends:** Built with **Python + FastAPI** using clean architecture.
-* 🔹 **Full-Stack Apps:** Integration of **React + TypeScript** with robust APIs.
-* 🔹 **Data Tools:** Utility apps using **Streamlit** and **NumPy**.
+## 📦 What you'll find in my Repositories
+I focus on **real-world use cases** rather than tutorials.
+
+- 🔹 High-performance backend systems built with Python (FastAPI, Django)  
+- 🔹 Full-stack applications (React + TypeScript + modern APIs)  
+- 🔹 Scalable architectures with clean code principles  
+- 🔹 Dockerized apps with CI/CD pipelines and monitoring (Grafana)  
 
 ---
 
 ## 🎯 Current Goals
-* 🧱 Build a **strong, practical project portfolio** with emphasis on backend systems.
-* 🔐 Deepen knowledge in ** Backend Development, Embedded Systems & Hardware Programming**.
-* 🚀 Become a thoughtful Software Engineer, focusing on architecture, scalability, and hardware integration.
-* 🔌 Explore **IoT development** and **microcontroller applications**.
+- 🧱 Build a strong, production-ready backend portfolio  
+- 🔐 Deepen knowledge in system design and scalable architectures  
+- 🚀 Grow as a Software Engineer through real-world experience  
+- ⚡ Master backend + DevOps synergy (APIs, CI/CD, monitoring)  
 
 ---
 
 ## 📫 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/jakub-rządzki-35b6413a0/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jakub rządzki" /></a>
+<a href="https://www.linkedin.com/in/jakub-rządzki-35b6413a0/" target="blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
