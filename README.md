@@ -7,6 +7,11 @@
   </h3>
   <br>
   <p>
+    <img src="https://img.shields.io/badge/INF.02-Certified-2ea44f?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/INF.03-Certified-2ea44f?style=for-the-badge" />
+  </p>
+  <br>
+  <p>
     I'm an ambitious <b>Computer Science in Computer Engineering</b> student at <b>Cracow University of Technology</b> building strong foundations in software engineering while gaining commercial experience as an <b>Associate Software Engineer</b>.
     My main focus is on <b>backend development, system design, and scalable architectures</b>, while keeping my skills sharp in modern full-stack technologies.
   </p>
@@ -34,6 +39,7 @@
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" height="40" /><br><sub>Bash</sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="40" /><br><sub>HTML</sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="40" /><br><sub>CSS</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" height="40" /><br><sub>MATLAB</sub></td>
   </tr>
 </table>
 
@@ -53,7 +59,7 @@
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="40" /><br><sub>MySQL</sub></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" /><br><sub>SQLite</sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" height="40" /><br><sub>NumPy</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" height="40" /><br><sub>MATLAB</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" height="40" /><br><sub>Pandas</sub></td>
   </tr>
 </table>
 
