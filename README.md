@@ -10,8 +10,7 @@
     I'm an ambitious <b>Computer Science in Computer Engineering</b> student at <b>Cracow University of Technology</b> building strong foundations in software engineering while gaining commercial experience as an <b>Associate Software Engineer</b>.
     My main focus is on <b>backend development, system design, and scalable architectures</b>, while keeping my skills sharp in modern full-stack technologies.
   </p>
-
-  > 🌱 **Core Philosophy:** I value consistency, hands-on practice, and real skills over theory alone.
+   🌱 <b>Core Philosophy</b>: I value consistency, hands-on practice, and real skills over theory alone.
 </div>
 
 <br>
@@ -28,36 +27,42 @@
 **💻 Languages & Scripting**
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c%2B%2B.png" height="40" /><br><sub>C++</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" height="40" /><br><sub>Python</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" height="40" /><br><sub>TypeScript</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" height="40" /><br><sub>Bash</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%2B%2B.png" height="40" /><br><sub>C++</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="40" /><br><sub>Python</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="40" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="40" /><br><sub>JavaScript</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" height="40" /><br><sub>Bash</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="40" /><br><sub>HTML</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="40" /><br><sub>CSS</sub></td>
   </tr>
 </table>
 
 **⚙️ Backend & Databases**
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/fastapi.png" height="40" /><br><sub>FastAPI</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.png" height="40" /><br><sub>Django</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" height="40" /><br><sub>NumPy</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/matlab.png" height="40" /><br><sub>MATLAB</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" height="40" /><br><sub>FastAPI</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" height="40" /><br><sub>Django</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height="40" /><br><sub>REST</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png" height="40" /><br><sub>Auth0</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" height="40" /><br><sub>pytest</sub></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="40" /><br><sub>SQLAlchemy</sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/pydantic/E92063" height="40" /><br><sub>Pydantic</sub></td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/pydantic/E92063" height="40" /><br><sub>Pydantic</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" height="40" /><br><sub>PostgreSQL</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" height="40" /><br><sub>MySQL</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="40" /><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="40" /><br><sub>MySQL</sub></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" /><br><sub>SQLite</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" height="40" /><br><sub>NumPy</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" height="40" /><br><sub>MATLAB</sub></td>
   </tr>
 </table>
 
 **🌐 Frontend & UI**
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" height="40" /><br><sub>React</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="40" /><br><sub>React</sub></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" height="40" /><br><sub>TailwindCSS</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vite.png" height="40" /><br><sub>Vite</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="40" /><br><sub>Vite</sub></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" /><br><sub>Streamlit</sub></td>
   </tr>
 </table>
@@ -65,13 +70,15 @@
 **🐧 Dev Tools & Environment**
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" height="40" /><br><sub>Linux</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" height="40" /><br><sub>Git</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" height="40" /><br><sub>GitHub</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" height="40" /><br><sub>Linux</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" height="40" /><br><sub>Ubuntu</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" height="40" /><br><sub>Windows</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="40" /><br><sub>Git</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="40" /><br><sub>GitHub</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" height="40" /><br><sub>VS Code</sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=clion" height="40" /><br><sub>CLion</sub></td>
   </tr>
   <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=clion" height="40" /><br><sub>CLion</sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pycharm" height="40" /><br><sub>PyCharm</sub></td>
     <td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg/icons/cursor.svg" height="40" /><br><sub>Cursor IDE</sub></td>
   </tr>
@@ -80,10 +87,10 @@
 **🚀 DevOps, Management & Observability**
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" height="40" /><br><sub>Docker</sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" height="40" /><br><sub>Git Actions</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grafana.png" height="40" /><br><sub>Grafana</sub></td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" height="40" /><br><sub>Jira</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="40" /><br><sub>Docker</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" height="40" /><br><sub>GitHub Actions</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" height="40" /><br><sub>Grafana</sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" height="40" /><br><sub>Jira</sub></td>
   </tr>
 </table>
 
