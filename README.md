@@ -98,8 +98,7 @@
 
   <tr>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="SQL Server" />
-      <br><sub><b>SQL Server</b></sub>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />      <br><sub><b>SQL Server</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite" />
