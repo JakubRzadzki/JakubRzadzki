@@ -11,7 +11,6 @@
 <p>
   <img src="https://img.shields.io/badge/INF.02-Certified-2ea44f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIGNsYXNzPSJiaSBiaS1wYXRjaC1jaGVjayIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC4zNTQgNi4xNDZhLjUuNSAwIDAgMSAwIC43MDhsLTMgM2EuNS41IDAgMCAxLS43MDggMGwtMS41LTEuNWEuNS41IDAgMSAxIC43MDgtLjcwOEw3LjUgOC43OTNsMi42NDYtMi42NDdhLjUuNSAwIDAgMSAuNzA4IDB6Ii8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTYgOEE4IDggMCAxIDEgMCA4YTggOCAwIDAgMSAxNiAwbS0xIDBBMTMgMTMgMCAxIDAgMSA4YTExIDExIDAgMCAwIDMgMCIvPjwvc3ZnPg==" alt="INF.02 Certified" />
   <img src="https://img.shields.io/badge/INF.03-Certified-2ea44f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIGNsYXNzPSJiaSBiaS1wYXRjaC1jaGVjayIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC4zNTQgNi4xNDZhLjUuNSAwIDAgMSAwIC43MDhsLTMgM2EuNS41IDAgMCAxLS43MDggMGwtMS41LTEuNWEuNS41IDAgMSAxIC43MDgtLjcwOEw3LjUgOC43OTNsMi42NDYtMi42NDdhLjUuNSAwIDAgMSAuNzA4IDB6Ii8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTYgOEE4IDggMCAxIDEgMCA4YTggOCAwIDAgMSAxNiAwbS0xIDBBMTMgMTMgMCAxIDAgMSA4YTExIDExIDAgMCAwIDMgMCIvPjwvc3ZnPg==" alt="INF.03 Certified" />
-  <img src="https://komarev.com/ghpvc/?username=jakubrzadzki&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 <a href="https://jakub-rzadzki.dev/" target="_blank">
@@ -134,6 +133,13 @@
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" height="40" alt="AWS" /><br><sub><b>AWS</b></sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-s3.svg" height="40" alt="S3" /><br><sub><b>S3</b></sub></td>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-lambda.svg" height="40" alt="Lambda" /><br><sub><b>Lambda</b></sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-ec2.svg" height="40" alt="EC2" /><br><sub><b>EC2</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-glue.svg" height="40" alt="Glue" /><br><sub><b>Glue</b></sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-athena.svg" height="40" alt="Athena" /><br><sub><b>Athena</b></sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-eventbridge.svg" height="40" alt="EventBridge" /><br><sub><b>EventBridge</b></sub></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-step-functions.svg" height="40" alt="Step Functions" /><br><sub><b>Step Functions</b></sub></td>
   </tr>
 </table>
 
@@ -162,8 +168,8 @@
     <td>Production-style booking backend — concurrency handling, JWT auth, containerized deployment.<br/><sub><b>Java</b> · <b>Spring Boot</b> · Spring Security/JWT · <b>Docker</b></sub></td>
   </tr>
   <tr>
-    <td><b>Local RAG System</b><br/><sub>just started</sub></td>
-    <td>Retrieval-augmented generation pipeline with a vector database — testing small local LLMs via Ollama.<br/><sub><b>Python</b> · Vector DB · Ollama</sub></td>
+    <td><b>Local RAG System</b><br/><sub>finalized</sub></td>
+    <td>Full-stack RAG chat over your own documents, built from scratch without LangChain — pgvector search, streamed answers from local Ollama models with cited sources, saved chat history and optional web search.<br/><sub><b>Python</b> · <b>FastAPI</b> · <b>React</b> + <b>TypeScript</b> · <b>PostgreSQL</b> (pgvector) · Ollama · <b>Docker</b></sub></td>
   </tr>
   <tr>
     <td><b>Colloq</b><br/><sub>earlier project</sub></td>
@@ -250,8 +256,6 @@
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/jakubrzadzki?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=8b5cf6&labelColor=0d1117" alt="GitHub followers" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=jakubrzadzki&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
