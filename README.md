@@ -163,7 +163,7 @@
   </tr>
   <tr>
     <td><b>Local RAG System</b><br/><sub>just started</sub></td>
-    <td>Retrieval-augmented generation pipeline with a vector database — testing small local LLMs via Ollama.<br/><sub><b>Java</b> · Vector DB · Ollama</sub></td>
+    <td>Retrieval-augmented generation pipeline with a vector database — testing small local LLMs via Ollama.<br/><sub><b>Python</b> · Vector DB · Ollama</sub></td>
   </tr>
   <tr>
     <td><b>Colloq</b><br/><sub>earlier project</sub></td>
